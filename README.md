@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mshao123!
-- 👀 I’m currently a Software Engineer at SAIC as apart of their Technical Leadership Development Program. 
+- 👀 I’m currently a Software Engineer at SAIC as apart of the Technical Leadership Development Program. 
 - 📫 Feel free to reach out to me at michelleshao@utexas.edu 
 
 <!---
