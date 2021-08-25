@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Michelle (@mshao123)!
-- 👀 I’m currently a Software Engineer at SAIC, apart of the Technical Leadership Development Program. 
-- 📫 Feel free to reach out to me at michelleshao@utexas.edu 
+- 👋  Hi, I’m Michelle (@mshao123)!
+- 👀  I’m currently a Software Engineer at SAIC, apart of the Technical Leadership Development Program. 
+- 📫  Feel free to reach out to me at michelleshao@utexas.edu 
 
 <!---
 mshao123/mshao123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
